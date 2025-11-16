@@ -2,6 +2,9 @@
 
 Analyse YouTube video transcripts for topic relevance — with embeddings, similarity scoring, promo detection, and LLM explanations.
 
+Refer detailed technical documentation Video Relevance Scorer.docx
+Refer detailed demo video attachment streamlit-video_relevance_scorer-demo
+
 🚀 Overview
 
 This Streamlit app evaluates how closely a video matches a user-provided title and description.
